@@ -33,6 +33,7 @@ keypoints:
 >2. Click `Choose Files` (or 'Browse', depending on your setup) and locate the file which you have downloaded called `doaj-article-sample.csv`
 >3. Click `Next >>` - the next screen (see below) gives you options to ensure the data is imported into OpenRefine correctly. The options vary depending on the type of data you are importing.
 >4. Click in the `Character encoding` box and set it to `UTF-8`
+  >>* UTF-8 is 8 bit Unicode Transformation Format. By clicking this option you are allowing all unicode characters to appear in your data. 
 >5. Ensure the first row is used to create the column headings by checking the box `Parse next 1 line(s) as column headers`
 >6. Make sure the `Parse cell text into numbers, dates, ...` box is not checked, so OpenRefine doesn't try to automatically detect numbers
 >7. The Project Name box in the upper right corner will default to the title of your imported file. Click in the `Project Name` box to give your project a different name, if desired.
